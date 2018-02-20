@@ -1,4 +1,4 @@
-# hask_webdriver_example
+# Haskell webdriver example
 
 Haskell v7.6*
 
